@@ -1,0 +1,6 @@
+{
+  "name": "radmanbot",
+  "description": "minecraft server bot",
+  "repository": "https://github.com/radmanplays/radmanbot",
+  "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs" }]
+}
